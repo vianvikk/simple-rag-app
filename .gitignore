@@ -1,0 +1,9 @@
+.env
+*.faiss
+*.pkl
+*.pyc
+*.json
+*.pdf
+*.pyc
+/__pycache__
+/ragenv
